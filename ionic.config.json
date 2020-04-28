@@ -1,0 +1,7 @@
+{
+  "name": "cam-edit",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular"
+}
